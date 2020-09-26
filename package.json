@@ -1,40 +1,34 @@
 {
-	"name": "omnist",
-	"displayName": "omnist",
-	"description": "not sure yet!",
-	"version": "0.0.1",
-	"engines": {
-		"vscode": "^1.49.0"
-	},
-	"categories": [
-		"Other"
-	],
-	"activationEvents": [
-		"onCommand:omnist.helloWorld"
-	],
-	"main": "./extension.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "omnist.helloWorld",
-				"title": "Hello World"
-			}
-		]
-	},
-	"scripts": {
-		"lint": "eslint .",
-		"pretest": "npm run lint",
-		"test": "node ./test/runTest.js"
-	},
-	"devDependencies": {
-		"@types/vscode": "^1.49.0",
-		"@types/glob": "^7.1.3",
-		"@types/mocha": "^8.0.0",
-		"@types/node": "^14.0.27",
-		"eslint": "^7.9.0",
-		"glob": "^7.1.6",
-		"mocha": "^8.1.3",
-		"typescript": "^4.0.2",
-		"vscode-test": "^1.4.0"
-	}
+    "name": "Astro Theme",
+    "displayName": "Astro Theme",
+    "publisher": "Bereket Semagn",
+    "description": "I've created this theme for my YouTube channel, dcode. It's based off the colours used in my logo and channel art.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/berkeketsemagn/astro-theme"
+    },
+    "homepage": "https://github.com/berkeketsemagn/astro-theme",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Astro Theme",
+        "dark",
+        "green",
+        "italic"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astro Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/astro-theme-color-theme.json"
+            }
+        ]
+    }
 }
