@@ -27,16 +27,6 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Astro Theme**
 
-## Icon Theme
-
-The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
-
-```json
-  "material-icon-theme.folders.color": "#8695b7",
-  "material-icon-theme.folders.theme": "specific",
-  "material-icon-theme.hidesExplorerArrows": true,
-```
-
 ## Color Reference
 
 ### Syntax Colors
