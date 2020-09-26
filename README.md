@@ -5,7 +5,7 @@
   Astro Theme for VS Code
 </h1>
 <p align="center">
-  A minimal dark green theme for VS Code based on the One Dark Pro theme.</a>.
+  A minimal, sigma green, cyan, and purple (astro) theme based on the One Dark Pro theme.</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
