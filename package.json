@@ -3,7 +3,7 @@
     "displayName": "Astro Theme",
     "publisher": "Astro",
     "description": "A minimal dark green theme for VS Code based on the One Dark Pro theme.",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "engines": {
         "vscode": "^1.41.0"
     },
