@@ -2,8 +2,8 @@
     "name": "Astro",
     "displayName": "Astro Theme",
     "publisher": "Astro",
-    "description": " A minimal, sigma green and purple (astro) theme based on the One Dark Pro theme.",
-    "version": "1.5.0",
+    "description": " A minimal, sigma green, cyan, and purple (astro) theme based on the One Dark Pro theme.",
+    "version": "1.6.0",
     "engines": {
         "vscode": "^1.41.0"
     },
