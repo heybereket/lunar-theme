@@ -2,8 +2,8 @@
     "name": "Astro",
     "displayName": "Astro Theme",
     "publisher": "Astro",
-    "description": " A minimal light green and purple (astro) theme based on the One Dark Pro theme. Available in the Visual Studio Code Marketplace.",
-    "version": "1.1.0",
+    "description": " A minimal light green and purple (astro) theme based on the One Dark Pro theme.",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.41.0"
     },
