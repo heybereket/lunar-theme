@@ -27,10 +27,6 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Astro Theme**
 
-## Manual Installation
-
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
-
 ## Icon Theme
 
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
