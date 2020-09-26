@@ -2,7 +2,7 @@
     "name": "Astro Theme",
     "displayName": "Astro Theme",
     "publisher": "Bereket Semagn",
-    "description": "I've created this theme for my YouTube channel, dcode. It's based off the colours used in my logo and channel art.",
+    "description": "Astro Theme is a dark green, italic font",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.41.0"
