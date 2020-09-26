@@ -136,7 +136,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#44efce"
+				"foreground": "#b19cd9"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#2ECBAC"
+				"foreground": "#b19cd9"
 			}
 		},
 		{
