@@ -3,16 +3,16 @@
     "displayName": "Astro Theme",
     "publisher": "Astro",
     "description": " A minimal, sigma green, cyan, and purple theme.",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "engines": {
         "vscode": "^1.41.0"
     },
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bereketsemagn/astro-theme"
+        "url": "https://github.com/bereketsemagn/astro-vscode-theme"
     },
-    "homepage": "https://github.com/bereketsemagn/astro-theme",
+    "homepage": "https://github.com/bereketsemagn/astro-vscode-theme",
     "categories": [
         "Themes"
     ],
@@ -27,7 +27,7 @@
             {
                 "label": "Astro Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/astro-theme-color-theme.json"
+                "path": "./themes/astro-vscode-theme-color-theme.json"
             }
         ]
     }
