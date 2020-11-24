@@ -1,14 +1,6 @@
-<p align="center">
-  <img alt="Astro Logo" src="icon.png" width="100" />
-</p>
-<h1 align="center">
-  Astro Theme for VS Code
-</h1>
-<p align="center">
-  A minimal, sigma green, cyan, and purple (astro) theme based on the One Dark Pro theme.</a>.
-</p>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
+<img alt="Astro Logo" src="icon.png" width="100" />
+<h1>Astro Theme for VSCode</h1>
+ <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Astro.Astro" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
@@ -17,9 +9,23 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/Astro.Astro" />
   </a>
-</p>
 
-## Installation via VS Code
+# about
+
+Astro Theme is a minimalistic, customisable, theme avaliable currently on <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">Visual Studio Code Marketplace</a>. It's colour scheme consists of sigma green, cyan, and purple theme. Astro Theme was created for users who love dark or light space themes. It has accumilated over 400 installs within 2 months. Crafted purley w/ JavaScript.
+
+# features
+
+- minimalistic design/colours
+- a choice for users to switch between light and dark colours
+- dark and light mode
+- moodes mode
+- multiple version themes
+- good for work ethic
+- lightweight and simple
+- and much more
+
+# installation 
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Astro Theme`
@@ -27,48 +33,20 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Astro Theme**
 
-## Color Reference
+# bug report or feature request
 
-### Syntax Colors
+If you encounter a bug, or have a feature request - send an issue under the `issues` tab.
 
-|                               Color                                | Usage                                           |
-| :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
+# credits
 
-### UI Colors
+Bereket Semagn - Design and Code
+Contributors - implementing new features, and fixing any bugs
+<a href="https://yeun.github.io/open-color/">Colour Schemes</a>
 
-|                               Color                                | Usage                                      |
-| :----------------------------------------------------------------: | ------------------------------------------ |
-| ![#171c28](https://via.placeholder.com/10/171c28?text=+) `#171c28` | Workbench background                       |
-| ![#1d2433](https://via.placeholder.com/10/1d2433?text=+) `#1d2433` | Editor background                          |
-| ![#2f3b54](https://via.placeholder.com/10/2f3b54?text=+) `#2f3b54` | Highlight, widgets, panels                 |
-| ![#6679a4](https://via.placeholder.com/10/6679a4?text=+) `#6679a4` | Dividers, subtle UI elements               |
-| ![#8695b7](https://via.placeholder.com/10/8695b7?text=+) `#8695b7` | Status bar text, buttons, etc              |
-| ![#d7dce2](https://via.placeholder.com/10/d7dce2?text=+) `#d7dce2` | Active text, anything that should be white |
-| ![#ffcc66](https://via.placeholder.com/10/ffcc66?text=+) `#ffcc66` | Accent, list tree titles, badges, etc      |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Addition highlights                        |
-| ![#ef6b73](https://via.placeholder.com/10/ef6b73?text=+) `#ef6b73` | Deletion highlights, errors, warnings      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Modified highlights                        |
+# support
 
-## Theming Reference
+If you wish to support further development and be special, feel free to spot any bugs, support me throughout the journey, or just leave feedback! Anything helps.
 
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+# how to contribute
 
-[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
-
-[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
-
-Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
-
-```bash
-vsce publish patch/minor/major
-```
-
-## Contributing
-
-If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR.
+If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR under the `pull requests` tab.
