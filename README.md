@@ -12,7 +12,7 @@
 
 # about
 
-Astro Theme is a minimalistic, customisable, theme avaliable currently on <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">Visual Studio Code Marketplace</a>. It's colour scheme consists of sigma green, cyan, and purple theme. Astro Theme was created for users who love dark or light space themes. It has accumilated over 400 installs within 2 months. Crafted purley w/ JavaScript.
+Astro Theme is a minimalistic, customisable, theme available currently on <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">Visual Studio Code Marketplace</a>. Its colour scheme consists of sigma green, cyan, and purple theme. Astro Theme was created for users who love dark or light space themes. It has accumulated over 400 installs within 2 months. Crafted purely w/ JavaScript.
 
 # features
 
@@ -35,7 +35,7 @@ Astro Theme is a minimalistic, customisable, theme avaliable currently on <a hre
 
 # bug report or feature request
 
-If you encounter a bug, or have a feature request - send an issue under the `issues` tab.
+If you encounter a bug or have a feature request - send an issue under the `issues` tab.
 
 # credits
 
