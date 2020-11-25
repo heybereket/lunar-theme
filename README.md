@@ -39,9 +39,9 @@ If you encounter a bug or have a feature request - send an issue under the `issu
 
 # credits
 
-Bereket Semagn - Design and Code
-Contributors - implementing new features, and fixing any bugs
-<a href="https://yeun.github.io/open-color/">Colour Schemes</a>
+Bereket Semagn - Design and Code <br>
+Contributors - implementing new features, and fixing any bugs <br>
+<a href="https://yeun.github.io/open-color/">Open Colour</a> - Colour Schemes
 
 # support
 
