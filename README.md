@@ -43,6 +43,8 @@ If you encounter a bug or have a feature request - send an issue under the `issu
 **Contributors** - implementing new features, and fixing any bugs <br>
 <a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
 
+Note: The logo is not ours.
+
 # support
 
 If you wish to support further development and be special, feel free to spot any bugs, support me throughout the journey, or just leave feedback! Anything helps.
