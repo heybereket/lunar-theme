@@ -1,9 +1,9 @@
 {
-    "name": "Astro",
-    "displayName": "Astro Theme",
+    "name": "Lunar",
+    "displayName": "Lunar Theme",
     "publisher": "bereketsemagn",
-    "description": "A minimalistic, and customizable sigma green, cyan, and purple theme for VS Code.",
-    "version": "1.1.6",
+    "description": "A dark, minimal, and space theme for VSCode.",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -14,12 +14,7 @@
     },
     "homepage": "https://github.com/bereketsemagn/astro-theme",
     "categories": [
-        "Themes",
-        "Customizable",
-        "Sigma Green",
-        "Extension Packs",
-        "Purple",
-        "Blue"
+        "Themes"
     ],
     "keywords": [
         "Astro Theme",
@@ -33,9 +28,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Astro Theme",
+                "label": "Lunar Theme",
                 "uiTheme": "vs-dark",
-                "path": "./routes/astro-vscode-theme-color-theme.json"
+                "path": "./routes/lunar-vscode-theme-color-theme.json"
             }
         ]
     }
