@@ -17,11 +17,14 @@
         "Themes"
     ],
     "keywords": [
+        "Accessible Theme",
         "color-theme",
         "Dark Theme",
+        "Light Theme",
         "Theme",
-        "Space",
-        "Lunar"
+        "Space Theme",
+        "Lunar",
+        "Theme"
     ],
     "contributes": {
         "themes": [
