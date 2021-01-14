@@ -1,4 +1,4 @@
-<img alt="Astro Logo" src="d" width="100" />
+<img alt="Astro Logo" src="icon.png" width="100" />
 <h1>Astro Theme for VSCode</h1>
  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Astro.Astro" />
