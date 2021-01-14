@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img alt="Astro Logo" src="icon.png" width="100" />
+=======
+<img alt="Astro Logo" src="d" width="100" />
+>>>>>>> 5981bb6ef0c05ab9b42c26647964edc64e9cc029
 <h1>Astro Theme for VSCode</h1>
  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Astro.Astro" />
@@ -34,6 +38,7 @@
 5. Code > Preferences > Color Theme > **Astro Theme**
 
 # bug report or feature request
+<<<<<<< HEAD
 
 If you encounter a bug or have a feature request - send an issue under the `issues` tab.
 
@@ -42,6 +47,18 @@ If you encounter a bug or have a feature request - send an issue under the `issu
 **Bereket Semagn** - Design and Code <br>
 **Contributors** - implementing new features, and fixing any bugs <br>
 <a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
+=======
+
+If you encounter a bug or have a feature request - send an issue under the `issues` tab.
+
+# credits
+
+**Bereket Semagn** - Design and Code <br>
+**Contributors** - implementing new features, and fixing any bugs <br>
+<a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
+
+Note: The logo is not ours.
+>>>>>>> 5981bb6ef0c05ab9b42c26647964edc64e9cc029
 
 # support
 
