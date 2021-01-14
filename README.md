@@ -1,14 +1,14 @@
 
-<img alt="Astro Logo" src="https://bereketsemagn.gallerycdn.vsassets.io/extensions/bereketsemagn/lunar/1.1.0/1610592579436/Microsoft.VisualStudio.Services.Icons.Default" width="100" />
-<h1>Astro Theme for VSCode</h1>
- <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Astro.Astro" />
+<img alt="Lunar Logo" src="https://bereketsemagn.gallerycdn.vsassets.io/extensions/bereketsemagn/lunar/1.1.0/1610592579436/Microsoft.VisualStudio.Services.Icons.Default" width="100" />
+<h1>Lunar Theme for VSCode</h1>
+ <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/bereketsemagn.Lunar" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Astro.Astro" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/bereketsemagn.Lunar" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/Astro.Astro" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/bereketsemagn.Lunar" />
   </a>
 
 # about
