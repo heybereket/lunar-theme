@@ -17,13 +17,11 @@
         "Themes"
     ],
     "keywords": [
-        "Astro Theme",
-        "dark",
-        "light",
-        "sigma green",
-        "purple",
-        "blue",
-        "space"
+        "color-theme",
+        "Dark Theme",
+        "Theme",
+        "Space",
+        "Lunar"
     ],
     "contributes": {
         "themes": [
