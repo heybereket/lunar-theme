@@ -1,6 +1,5 @@
 
-<img alt="Astro Logo" src="icon.png" width="100" />
-<img alt="Astro Logo" src="icon.png" width="100" />
+<img alt="Astro Logo" src="https://bereketsemagn.gallerycdn.vsassets.io/extensions/bereketsemagn/lunar/1.1.0/1610592579436/Microsoft.VisualStudio.Services.Icons.Default" width="100" />
 <h1>Astro Theme for VSCode</h1>
  <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Astro.Astro" />
