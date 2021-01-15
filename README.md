@@ -19,9 +19,14 @@
 
 
 
-# about
+# story
 
-**Astro Theme** is a minimalistic and customisable theme currently available on the <a href="https://marketplace.visualstudio.com/items?itemName=Astro.Astro"><b>Visual Studio Code Marketplace</b></a>. It's colour scheme consists of the colours sigma green, cyan, and purple. Astro Theme was created for users who love dark or light space themes. It has accumulated over 400 installs within 2 months. Crafted purely w/ JavaScript.
+Lunar Theme has always been in my head for a while now, just sitting there. I remember opening up VSCode and not knowing what theme I should pick because either there was one that I liked the background of but not the colours or that one that just didn't get updated frequently. Shortly after, I knew I wanted to do something about that. I quickly rolled out a piece of paper and had an idea and that idea was to make a Visual Studio Code theme, my original idea for that theme was not that great but turns out when I launched it, the next day it had over 50k installs...(yeah I wish). 
+
+Seriously, the whole thing grew expodentially and I wasn't noticing any growth in it, I lost the token for that extension and just quit that project. 
+<br><br> <b>4 months later...</b>
+
+But wait, hold on. Am I really going to just give up? No, look at me Bereket. You are going to make another extension that will be better than whatever you've built in the past. That's what was going through my head for weeks, until...I went for it. I sat down and just went on focus mode and hardcored coding that extension, which is now Lunar Theme!
 
 # features
 
@@ -42,14 +47,13 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Astro Theme**
 
-# bug report or feature request
-<<<<<<< HEAD
+# demo
 
 If you encounter a bug or have a feature request - send an issue under the `issues` tab.
 
 # credits
 
-**Bereket Semagn** - Design and Code <br>
+#### Bereket Semagn - Design and Code <br>
 **Contributors** - implementing new features, and fixing any bugs <br>
 <a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
 =======
@@ -58,8 +62,7 @@ If you encounter a bug or have a feature request - send an issue under the `issu
 
 # credits
 
-**Bereket Semagn** - Design and Code <br>
-**Contributors** - implementing new features, and fixing any bugs <br>
+Bereket Semagn - Design and Code <br>
 <a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
 
 Note: The logo is not ours.
