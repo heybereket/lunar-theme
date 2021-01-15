@@ -65,13 +65,11 @@ If you encounter a bug or have a feature request - send an issue under the `issu
 Bereket Semagn - Design and Code <br>
 <a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
 
-Note: The logo is not ours.
->>>>>>> 5981bb6ef0c05ab9b42c26647964edc64e9cc029
+# thanks
 
-# support
+Thank you for either reading this README, supporting me, or just installing/downloading Lunar Theme, your support is very much appreciated and I wouldn't be here without each and every one of you. If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR under the `pull requests` tab.
 
-If you wish to support further development and be special, feel free to spot any bugs, support me throughout the journey, or just leave feedback! Anything helps.
+<br>
+<br>
 
-# how to contribute
-
-If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR under the `pull requests` tab.
+Find me on **Twitter** - <a href="https://twitter.com/imbereket">@imbereket</a>
