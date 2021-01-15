@@ -2,16 +2,26 @@
 <img alt="Lunar Logo" src="https://ph-files.imgix.net/4cfdf81d-87d6-44d5-af96-1ebce322f9ef.gif?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop" width="100" />
 </p>
 
-<h1>Lunar Theme for VSCode</h1>
+
+<h1 align="center">Lunar Theme for VSCode</h1>
+
+<p align="center">
  <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/bereketsemagn.Lunar" />
   </a>
+  </p>
+  
+  <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/bereketsemagn.Lunar" />
   </a>
+  </p>
+  
+ <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/bereketsemagn.Lunar" />
   </a>
+  </p>
 
 # about
 
