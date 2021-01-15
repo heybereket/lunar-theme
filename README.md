@@ -41,16 +41,21 @@ But wait, hold on. Am I really going to just give up? No, look at me Bereket. Yo
 
 # installation 
 
+Option #1: <br>
+```Press ctl + shift + p``` **or** ```cmd + shift + p```
+
+Option #2: <br>
+```<choice>``` = Dark, Light, or Italic 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Astro Theme`
+2. Search for `Lunar Theme`
 3. Click **Install** to install it
-4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Astro Theme**
+4. Reload Visual Studio Code
+5. File/Code > Preferences > Color Theme > **Lunar ```<choice>```**
 
 # info
 
 Recommended Settings:
-**Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. <br> 
+**Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. <br> <br>
 ```<choice>``` = Dark, Light, or Italic
  
 ```js
@@ -63,13 +68,15 @@ Recommended Settings:
 
 # demo
 
-# credits
-
-Bereket Semagn - Creator <br>
-<a href="https://yeun.github.io/open-color/"><b>Open Colour</b></a> - Colour Schemes
+Screenshot of Go, Javascript, and Typescript. Lunar can be used for several languages. <br>
+<img src="https://ph-files.imgix.net/825c4c9d-09a7-4f5d-b8c1-4aefe61c3be2.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=707.7689243027888&h=380&fit=max" />
+<img src="https://ph-files.imgix.net/5b4ea97b-374d-44ba-be74-b05e0628c051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.0648055832503&h=380&fit=max" />
+<img src="https://ph-files.imgix.net/456d7caf-5115-46fc-990f-bbd9ffee6721.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.3892215568861&h=380&fit=max" />
+<img src="https://ph-files.imgix.net/24470761-ef9f-4e12-ad51-2a2b983a2f23.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=692.4361493123772&h=380&fit=max" />
 
 # thanks
 
 Thank you for either reading this README, supporting me, or just installing/downloading Lunar Theme, your support is very much appreciated and I wouldn't be here without each and every one of you. If you encounter a bug or have a feature request - send an issue under the `issues` tab. If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR under the `pull requests` tab. 
 
+Bereket Semagn - Creator <br>
 Find me on **Twitter** - <a href="https://twitter.com/imbereket">@imbereket</a>
