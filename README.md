@@ -66,11 +66,7 @@ Recommended Settings: <br>
 
 # demo
 
-Screenshot of Go, Javascript, and Typescript. Lunar can be used for several languages. <br><br>
-<img src="https://ph-files.imgix.net/825c4c9d-09a7-4f5d-b8c1-4aefe61c3be2.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=707.7689243027888&h=380&fit=max" />
-<img src="https://ph-files.imgix.net/5b4ea97b-374d-44ba-be74-b05e0628c051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.0648055832503&h=380&fit=max" />
-<img src="https://ph-files.imgix.net/456d7caf-5115-46fc-990f-bbd9ffee6721.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.3892215568861&h=380&fit=max" />
-<img src="https://ph-files.imgix.net/24470761-ef9f-4e12-ad51-2a2b983a2f23.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=692.4361493123772&h=380&fit=max" />
+<img src="https://i.ibb.co/MPnJF4k/Capture.png" />
 
 # thanks
 
