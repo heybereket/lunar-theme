@@ -51,10 +51,11 @@ But wait, hold on. Am I really going to just give up? No, look at me Bereket. Yo
 
 Recommended Settings:
 **Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. 
-
+<choice> = Dark, Light, or Italic
+ 
 ```js
 {
-  "workbench.colorTheme": "Lunar Theme",
+  "workbench.colorTheme": "Lunar <choice>",
   "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontSize": 17
 }
