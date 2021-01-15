@@ -1,21 +1,26 @@
 {
-    "name": "Lunar",
+    "name": "lunar",
     "displayName": "Lunar Theme",
     "publisher": "bereketsemagn",
-    "description": "A dark, minimal, and space theme for VSCode.",
-    "version": "1.1.0",
+    "description": "A minimal, dark and light space theme for VSCode.",
+    "license": "See LICENSE.md",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.41.0"
     },
-    "icon": "icon.png",
+    "icon": "assets/icon.gif",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bereketsemagn/astro-theme"
+        "url": "https://github.com/imbereket/lunar-theme"
     },
-    "homepage": "https://github.com/bereketsemagn/astro-theme",
+    "homepage": "https://github.com/imbereket/lunar-theme/blob/master/README.md",
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#414a4c",
+        "theme": "dark"
+    },
     "keywords": [
         "Accessible Theme",
         "color-theme",
@@ -29,9 +34,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lunar Theme",
+                "label": "Lunar Dark",
                 "uiTheme": "vs-dark",
-                "path": "./routes/lunar-vscode-theme-color-theme.json"
+                "path": "./themes/lunar-dark-color-theme.json"
             }
         ]
     }

@@ -11,6 +11,7 @@ let quoteFixCreator = (problem, document) => {
         text: `${fixedQuote}${contents}${fixedQuote}`
     };
 };
+
 fixes['quotemark'] = quoteFixCreator;
 let whiteSpaceFixCreator = (problem, document) => {
     // error message: 'missing whitespace'
