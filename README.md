@@ -50,8 +50,8 @@ But wait, hold on. Am I really going to just give up? No, look at me Bereket. Yo
 # info
 
 Recommended Settings:
-**Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. 
-<choice> = Dark, Light, or Italic
+**Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. <br> 
+```<choice>``` = Dark, Light, or Italic
  
 ```js
 {
