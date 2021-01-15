@@ -66,7 +66,7 @@ Recommended Settings: <br>
 
 # demo
 
-<img src="https://i.ibb.co/s1t0RkM/Screenshot-2021-01-14-203848.png" />
+<img src="https://i.ibb.co/LN7M8qD/Screenshot-2021-01-15-122108.png" />
 
 # thanks
 
