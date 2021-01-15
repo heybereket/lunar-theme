@@ -9,19 +9,16 @@
  <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/bereketsemagn.Lunar" />
   </a>
-  </p>
-  
-
+ 
   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/bereketsemagn.Lunar" />
   </a>
-
   
-
-  <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
+   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/bereketsemagn.Lunar" />
   </a>
 
+  </p>
 
 # about
 
