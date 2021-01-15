@@ -11,17 +11,17 @@
   </a>
   </p>
   
-  <p align="center">
+
   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/bereketsemagn.Lunar" />
   </a>
-  </p>
+
   
- <p align="center">
+
   <a href="https://marketplace.visualstudio.com/items?itemName=bereketsemagn.Lunar">
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/bereketsemagn.Lunar" />
   </a>
-  </p>
+
 
 # about
 
