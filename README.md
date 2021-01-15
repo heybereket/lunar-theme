@@ -47,9 +47,20 @@ But wait, hold on. Am I really going to just give up? No, look at me Bereket. Yo
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Astro Theme**
 
-# demo
+# info
 
-If you encounter a bug or have a feature request - send an issue under the `issues` tab.
+Recommended Settings:
+**Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. 
+
+```js
+{
+  "workbench.colorTheme": "Lunar Theme",
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 17
+}
+```
+
+# demo
 
 # credits
 
