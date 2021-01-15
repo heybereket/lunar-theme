@@ -69,7 +69,4 @@ Bereket Semagn - Design and Code <br>
 
 Thank you for either reading this README, supporting me, or just installing/downloading Lunar Theme, your support is very much appreciated and I wouldn't be here without each and every one of you. If you would like to contribute, simply fork this repo, or clone it, make your changes, and submit a PR under the `pull requests` tab.
 
-<br>
-<br>
-
 Find me on **Twitter** - <a href="https://twitter.com/imbereket">@imbereket</a>
