@@ -31,13 +31,11 @@ But wait, hold on. Am I really going to just give up? No, look at me Bereket. Yo
 # features
 
 - minimalistic design/colours
-- a choice for users to switch between light and dark colours
-- dark and light mode
-- moodes mode
-- multiple version themes
+- dark, light, and italic modes
 - good for work ethic
+- easy on the eyes
 - lightweight and simple
-- and much more
+- pastel colours 
 
 # installation 
 
@@ -54,7 +52,7 @@ Option #2: <br>
 
 # info
 
-Recommended Settings:
+Recommended Settings: <br>
 **Note:** You can add more settings preferences to this of your choice, these are just the basic reccomended settings specifications. <br> <br>
 ```<choice>``` = Dark, Light, or Italic
  
@@ -68,7 +66,7 @@ Recommended Settings:
 
 # demo
 
-Screenshot of Go, Javascript, and Typescript. Lunar can be used for several languages. <br>
+Screenshot of Go, Javascript, and Typescript. Lunar can be used for several languages. <br><br>
 <img src="https://ph-files.imgix.net/825c4c9d-09a7-4f5d-b8c1-4aefe61c3be2.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=707.7689243027888&h=380&fit=max" />
 <img src="https://ph-files.imgix.net/5b4ea97b-374d-44ba-be74-b05e0628c051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.0648055832503&h=380&fit=max" />
 <img src="https://ph-files.imgix.net/456d7caf-5115-46fc-990f-bbd9ffee6721.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=705.3892215568861&h=380&fit=max" />
