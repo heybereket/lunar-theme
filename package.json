@@ -4,16 +4,16 @@
     "publisher": "bereketsemagn",
     "description": "A minimal, dark and light space theme for VSCode.",
     "license": "See LICENSE.md",
-    "version": "1.2.0",
+    "version": "1.4.0",
     "engines": {
         "vscode": "^1.41.0"
     },
     "icon": "assets/icon.gif",
     "repository": {
         "type": "git",
-        "url": "https://github.com/imbereket/lunar-theme"
+        "url": "https://github.com/imbereket/lunar-theme-vscode"
     },
-    "homepage": "https://github.com/imbereket/lunar-theme/blob/master/README.md",
+    "homepage": "https://github.com/imbereket/lunar-theme-vscode/blob/master/README.md",
     "categories": [
         "Themes"
     ],
@@ -37,6 +37,11 @@
                 "label": "Lunar Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lunar-dark-color-theme.json"
+            },
+            {
+                "label": "Lunar Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lunar-midnight-color-theme.json"
             }
         ]
     }
